@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Priscila Prudente
 
-- 🔭 Hoje trabalho com Fast Food
+- 🔭 Hoje trabalho com Segurança da Informação
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Contate-me no Email: priscila.prudente.fernandes@gmail.com
 
