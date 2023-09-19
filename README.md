@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Priscila Prudente
 
 - 🔭 Hoje trabalho com Segurança da Informação
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas
 - 👯 Contate-me no Email: priscila.prudente.fernandes@gmail.com
 
 <div>
